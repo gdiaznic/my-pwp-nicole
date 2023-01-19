@@ -1,2 +1,2 @@
 # my-pwp-nicole
-This will serve as a showcase to demonstrate my skills in the frontend developing.
+My personal website portfolio will be about my brother's photography/videography projects.
