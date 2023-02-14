@@ -1,6 +1,6 @@
 #background {
-    background: url(images/bigbackground.jpg);
-    height: 45vh;
+    background-image: url(images/bigbackground.jpg);
+    height: 35vh;
 }
 
 h1 {
@@ -13,4 +13,16 @@ a {
 
 body {
     font-family: Verdana;
+}
+
+#portfoliobtn:hover {
+    background-color: grey;
+}
+
+#cssbtn:hover {
+    background-color: grey;
+}
+
+#javascriptbtn:hover {
+    background-color: grey;
 }
