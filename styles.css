@@ -1,10 +1,17 @@
 #background {
-    background-image: url(images/bigbackground.jpg);
+    background-image: url(images/mountains-winter-daytime-glacier-blue-mountain-range-5k-6000x3376-1248.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
     height: 35vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-position:center center;
 }
 
 h1 {
-    font-size: xxx-large;
+    font-size: xx-large;
 }
 
 a {
